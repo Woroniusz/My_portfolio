@@ -1,2 +1,2 @@
 # My_portfolio
-collection of models and projects
+This is an addition to my CV 
