@@ -10,3 +10,7 @@ The code was created on the article https://arxiv.org/pdf/1406.2661
 #### Weight:
 https://drive.google.com/drive/folders/1KgNQ_jQVY3FSzDEHpCB9sH4ZEkTuBkGF?usp=sharing
 
+## Library
+
+* Pytorch - https://github.com/pytorch
+
