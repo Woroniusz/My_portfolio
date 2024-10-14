@@ -1,2 +1,2 @@
 # My_portfolio
-This is an addition to my CV 
+The purpose of this repository is to showcase my skills and nothing more and nothing less
