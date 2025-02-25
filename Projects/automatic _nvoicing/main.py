@@ -3,3 +3,4 @@ generator = pipeline('text-generation', model='gpt2')
 set_seed(42)
 generator("Hello, I'm a language model,", max_length=30, num_return_sequences=5)
 #cos tam cos tam
+#costam costam
